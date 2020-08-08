@@ -1,0 +1,118 @@
+.ContenedorFooterTotal{
+    width: 100%;
+    max-width: 1500px;
+    margin: auto;
+    padding: 40px;
+}
+
+.ContenedorBody{
+    display: flex;
+    justify-content: space-between;
+    background: rgb(248, 249, 250);
+}
+
+.columna1{
+    max-width: 400px;
+    margin-left: 30px;
+}
+
+.columna1 h1{
+    font-size: 22px;
+    color: black;
+}
+
+.columna1 p{
+    font-size: 14px;
+    color: black;
+    margin-top: 20px;
+}
+
+.Columna2{
+    max-width: 400px;
+}
+
+.Columna2 h1{
+    font-size: 22px;
+    margin-left: 10px;
+    color: black;
+}
+
+.RedesSociales{
+    margin-top: 20px;
+    display: flex;
+    font-size: 15px;
+}
+
+.RedesSociales img{
+    width: 36px;
+    height: 36px;
+    margin-left: 10px;
+}
+
+.RedesSociales label{
+    margin-top:10px;
+    margin-left: 10px;
+    color: black;
+}
+
+.Columna3{
+    max-width: 400px;
+    margin-right: 30px;
+}
+
+.Columna3 h1{
+    font-size: 22px;
+    margin-left: 10px;
+    color: black;
+}
+
+.DatosContaco{
+    margin-top: 20px;
+    display: flex;
+    font-size: 15px;
+}
+
+.DatosContaco img{
+    width: 36px;
+    height: 36px;
+    margin-left: 10px;
+}
+
+.DatosContaco label{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: black;
+}
+
+.ContenedorFooter{
+   width: 100%;
+   background:  rgb(94, 96, 96);
+   display: flex;
+   color: black;
+   justify-content: space-between; 
+}
+
+.InfoFooter{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.Copyright{
+    color: black;
+}
+
+.Copyright a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.Informacion a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}

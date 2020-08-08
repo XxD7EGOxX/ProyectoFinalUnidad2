@@ -1,0 +1,38 @@
+#carouselExampleCaptions{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.LogoNavegacion img{
+    width: 55px;
+    height: 50px;
+}
+
+.carousel-item{
+    width: 100%;
+    height: 600px;
+}
+
+.carousel-inner h1{
+    color: black;
+}
+
+.ImagenTitulo{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.ImagenTitulo img{
+    width: 100%;
+    height: 300px;
+}
+
+.media{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.media-body p{
+    text-align: justify;
+}
